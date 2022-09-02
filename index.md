@@ -7,3 +7,9 @@
 ```
 console.log('Hello Github world');
 ```
+
+
+- [x] Create an account
+- [ ] Learn Github
+- [ ] Become a (good) programmer
+- [ ] Profit
